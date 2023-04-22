@@ -1,0 +1,5 @@
+#block update
+
+
+rcm-na.amazon-adsystem.com
+pagead2.googlesyndication.com
