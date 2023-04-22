@@ -3,3 +3,18 @@
 
 rcm-na.amazon-adsystem.com
 pagead2.googlesyndication.com
+
+# [QUESTIONABLE]
+# com.amazon.dee.app
+# com.amazon.imp
+# com.amazon.kindle.cms
+# com.amazon.photos
+127.0.0.1 api.amazon.com
+127.0.0.1 mads.amazon-adsystem.com
+127.0.0.1 kindle-time.amazon.com
+127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 spectrum.s3.amazonaws.com # wifi maybe broken because of this
+
+# [UPDATES_REQUIRED]
+127.0.0.1 amzdigital-a.akamaihd.net
+127.0.0.1 amzdigitaldownloads.edgesuite.net
