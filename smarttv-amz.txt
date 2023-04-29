@@ -1,6 +1,5 @@
 #block update
 
-
 rcm-na.amazon-adsystem.com
 pagead2.googlesyndication.com
 
@@ -16,7 +15,6 @@ device-metrics-us-2.amazon.com
 spectrum.s3.amazonaws.com # wifi maybe broken because of this
 
 # [UPDATES_REQUIRED]
-
 d1s31zyz7dcc2d.cloudfront.net
 amzdigital-a.akamaihd.net
 amzdigitaldownloads.edgesuite.net
